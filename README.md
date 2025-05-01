@@ -11,7 +11,7 @@ Sou um desenvolvedor iniciante, as linguagens tenho familiaridade são HTML, CSS
 
 ## 📂 Meus Projetos
 
-🔹 *[Sobre mim](https://kallew123.github.io/site-exemplo/)*  
+🔹 *[Sobre mim](https://kallew123.github.io/Sobre-mim/)*  
 🔹 *[Script em Python que renomeia arquivos](https://github.com/seuusuario/nome-do-projeto)*
 
 (Em breve, colocarei mais projetos aqui!)
