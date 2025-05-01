@@ -1,6 +1,6 @@
 # 👋 Olá! Meu nome é Nicolas, mas pode me chamar de Kallew.
 
-Sou um desenvolvedor iniciante, as linguagens tenho familiaridade são HTML, CSS e Python. Este é meu portfólio com os projetos que estou criando enquanto faço meus estudos.
+Sou um desenvolvedor iniciante. Este é meu portfólio com os projetos que estou criando enquanto faço meus estudos.
 
 ## 🧰 Tecnologias que domínio
 
