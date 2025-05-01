@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Seu Nome ou Apelido]
 
-<!--
-**kallew123/kallew123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor iniciante aprendendo HTML, CSS e Python. Este é meu portfólio com os projetos que estou criando enquanto estudo.
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Python
+- Git e GitHub
+
+## 📂 Meus Projetos
+
+🔹 *[Site simples em HTML e CSS](https://github.com/seuusuario/nome-do-projeto)*  
+🔹 *[Script em Python que renomeia arquivos](https://github.com/seuusuario/nome-do-projeto)*
+
+(Em breve, colocarei mais projetos aqui!)
+
+## 📬 Contato
+
+- Email: nicolaskallewlibor@gmail.com
+- Instagram: @nickklb
+
+---
+
+⭐ Obrigado por visitar meu portfólio!
