@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor iniciante, as linguagens tenho familiaridade são HTML, CSS e Python. Este é meu portfólio com os projetos que estou criando enquanto faço meus estudos.
 
-## 🧰 Tecnologias que estou aprendendo
+## 🧰 Tecnologias que domínio
 
 - HTML
 - CSS
