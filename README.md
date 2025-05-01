@@ -11,7 +11,7 @@ Sou um desenvolvedor iniciante. Este é meu portfólio com os projetos que estou
 
 ## 📂 Meus Projetos
 
-🔹 *[Sobre mim](https://kallew123.github.io/Sobre-mim/)*  
+🔹 *[Sobre mim (site em HTML e CSS](https://kallew123.github.io/Sobre-mim/)*  
 🔹 *[Script em Python que renomeia arquivos](https://github.com/seuusuario/nome-do-projeto)*
 
 (Em breve, vou colocar mais projetos que fiz aqui!)
