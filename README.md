@@ -11,7 +11,7 @@ Sou um desenvolvedor iniciante aprendendo HTML, CSS e Python. Este é meu portf�
 
 ## 📂 Meus Projetos
 
-🔹 *[Site simples em HTML e CSS](https://github.com/seuusuario/nome-do-projeto)*  
+🔹 *[Site simples em HTML e CSS](https://github.com/kallew123/site-exemplo)*  
 🔹 *[Script em Python que renomeia arquivos](https://github.com/seuusuario/nome-do-projeto)*
 
 (Em breve, colocarei mais projetos aqui!)
