@@ -12,8 +12,10 @@ Sou um desenvolvedor iniciante. Este é meu portfólio com os projetos que estou
 ## 📂 Meus Projetos
 
 🔹 *[Sobre mim (site em HTML e CSS)](https://kallew123.github.io/Sobre-mim/)*  
+
 🔹 *[Gerador de senhas em Python](https://github.com/kallew123/Gerador-de-senhas)*
-🔹 *[Pagina inteligentes Search](https://kallew123.github.io/Google/)*
+
+🔹 *[Paginas inteligentes Search](https://kallew123.github.io/Google/)*
 
 (Em breve, vou colocar mais projetos que fiz aqui!)
 
