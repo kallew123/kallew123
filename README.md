@@ -19,3 +19,4 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 
 - Email: nicolaskallewlibor@gmail.com
 - Instagram: [@nickklb](https://www.instagram.com/nickklb/)
+- LinkedIn: [Nicolas Liborio](https://www.linkedin.com/in/nicolas-liborio/)
