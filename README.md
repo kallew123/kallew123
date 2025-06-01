@@ -1,29 +1,21 @@
-# 👋 Olá! Meu nome é Nicolas, mas pode me chamar de Kallew.
+# 👋 Olá! Sou o Nicolas (ou Kallew)
 
-Sou um desenvolvedor iniciante. Este é meu portfólio com os projetos que estou criando enquanto faço meus estudos.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. Atualmente, estou cursando Sistemas de Informação na FAM e já concluí um curso técnico em Desenvolvimento de Sistemas.
 
-## 🧰 Tecnologias que domínio
+## 🚀 Tecnologias que domino
 
 - HTML
 - CSS
 - Python
 - Git e GitHub
 
-## 📂 Meus Projetos
+## 🛠️ Projetos
 
-🔹 *[Sobre mim (site em HTML e CSS)](https://kallew123.github.io/Sobre-mim/)*  
+- [Sobre mim](https://kallew123.github.io/Sobre-mim/): Site pessoal desenvolvido com HTML e CSS.
+- [Gerador de Senhas](https://github.com/kallew123/Gerador-de-senhas): Aplicação em Python que gera senhas aleatórias.
+- [Páginas Inteligentes Search](https://kallew123.github.io/Google/): Projeto de busca inteligente com HTML e CSS.
 
-🔹 *[Gerador de senhas em Python](https://github.com/kallew123/Gerador-de-senhas)*
-
-🔹 *[Paginas inteligentes Search](https://kallew123.github.io/Google/)*
-
-(Em breve, vou colocar mais projetos que fiz aqui!)
-
-## 📬 Contato
+## 📫 Contato
 
 - Email: nicolaskallewlibor@gmail.com
-- Instagram: @nickklb
-
----
-
-⭐ Obrigado por visitar meu portfólio!
+- Instagram: [@nickklb](https://www.instagram.com/nickklb/)
