@@ -8,6 +8,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 - CSS
 - Python
 - Git e GitHub
+- SQL
 
 ## 🛠️ Projetos
 
