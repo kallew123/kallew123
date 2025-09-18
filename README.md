@@ -6,14 +6,14 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 
 - HTML
 - CSS
-- Python
+- C
 - Git e GitHub
 - SQL
 
 ## 🛠️ Projetos
 
 - [Sobre mim](https://kallew123.github.io/Sobre-mim/): Site pessoal desenvolvido com HTML e CSS.
-- [Gerador de Senhas](https://github.com/kallew123/Gerador-de-senhas): Aplicação em Python que gera senhas aleatórias.
+- [Calculadora.c](https://github.com/kallew123/Calculadora.c): Uma calculadora que servirá como caderno de aprendizado e será atualizada gradualmente conforme eu for evoluindo!.
 - [Páginas Inteligentes Search](https://kallew123.github.io/Google/): Projeto de busca inteligente com HTML e CSS.
 
 ## 📫 Contato
