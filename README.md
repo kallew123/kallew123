@@ -15,7 +15,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 - [Sobre mim](https://kallew123.github.io/Sobre-mim/): Site pessoal desenvolvido com HTML e CSS.
 - [Calculadora.c](https://github.com/kallew123/Calculadora.c): Uma calculadora que servirá como caderno de aprendizado e será atualizada gradualmente conforme eu for evoluindo!
 - [Páginas Inteligentes Search](https://kallew123.github.io/Google/): Projeto de busca inteligente com HTML e CSS.
-- [Sistema de Calculo de Medias](https://kallew123.github.io/Sistema-de-Calculo-de-Medias/): Um programa que registra alunos e suas respectivas notas e calcula a media destes alunos.
+- [Sistema de Calculo de Medias](https://github.com/kallew123/Sistema-de-Calculo-de-Medias): Um programa que registra alunos e suas respectivas notas e calcula a media destes alunos.
 
 ## 📫 Contato
 
