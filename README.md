@@ -4,11 +4,11 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 
 ## 🚀 Tecnologias que domino
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - C
 - Git e GitHub
-- SQL
+- MySQL
 
 ## 🛠️ Projetos
 
