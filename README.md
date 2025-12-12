@@ -16,6 +16,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 - [Calculadora](https://github.com/kallew123/Calculadora.c): Uma calculadora que servirá como caderno de aprendizado e será atualizada gradualmente conforme eu for evoluindo!
 - [Sistema de Calculo de Medias](https://github.com/kallew123/Sistema-de-Calculo-de-Medias): Programa que registra no maximo 50 alunos e suas respectivas notas e calcula a media.
 - [Sistema de Registro e calculo de vendas](https://github.com/kallew123/Sistema-de-Registro-e-Calculo-de-Vendas): Programa que registra no maximo 100 produtos e suas respectivas vendas e valores.
+- [Sistema CRUD](https://github.com/kallew123/Sistema-CRUD): Programa em C que gerencia até 100 pessoas, permitindo cadastrar, listar, atualizar, excluir e buscar registros usando `struct` e funções.
 
 ## 📫 Contato
 
