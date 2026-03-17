@@ -7,6 +7,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 - HTML5
 - CSS3
 - C
+- Python
 - Git e GitHub
 - MySQL
 
