@@ -5,12 +5,12 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 ## 🚀 Tecnologias que domino
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
+![CSS3](https://img.shields.io/badge/CSS3-purple)
 ![C](https://img.shields.io/badge/C-yellow)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
+![MySQL](https://img.shields.io/badge/MySQL-gray)
 
 ## 🛠️ Projetos
 
