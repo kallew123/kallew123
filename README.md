@@ -6,7 +6,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-![C](https://img.shields.io/badge/C-gray)
+![C](https://img.shields.io/badge/C-yellow)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
